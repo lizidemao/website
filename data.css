@@ -1,3 +1,6 @@
 h2{
 	overflow: hidden;
 }
+p{
+	float: inherit;
+}
